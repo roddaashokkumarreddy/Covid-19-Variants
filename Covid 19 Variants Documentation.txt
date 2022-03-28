@@ -1,0 +1,7 @@
+Open the Google Colab
+
+Uploaded the covid19_variants.csv file
+
+Load the ipynb file
+
+execute all the cells.
